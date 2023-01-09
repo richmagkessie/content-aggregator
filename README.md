@@ -1,5 +1,5 @@
 ### Content Aggregator app
-A simple fascinating app for content building
+A simple fascinating app for content building.
 Find the following:
 - Programming Blogs
 - Python Blogs
